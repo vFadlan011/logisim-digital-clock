@@ -63,9 +63,6 @@
       <a name="facing" val="north"/>
     </comp>
     <comp lib="0" loc="(2680,2760)" name="Constant"/>
-    <comp lib="0" loc="(520,1550)" name="Constant">
-      <a name="facing" val="north"/>
-    </comp>
     <comp lib="0" loc="(550,2840)" name="Clock">
       <a name="appearance" val="NewPins"/>
     </comp>
@@ -358,10 +355,6 @@
     <comp lib="5" loc="(1990,1500)" name="7-Segment Display">
       <a name="decimalPoint" val="false"/>
     </comp>
-    <comp lib="5" loc="(490,1500)" name="7-Segment Display">
-      <a name="decimalPoint" val="false"/>
-    </comp>
-    <comp lib="5" loc="(590,1500)" name="7-Segment Display"/>
     <comp lib="8" loc="(1275,1840)" name="Text">
       <a name="text" val="S"/>
     </comp>
